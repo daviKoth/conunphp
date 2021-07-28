@@ -6,6 +6,7 @@
         </Settings>
         <KeywordLists>
             <Keywords name="Comments"></Keywords>
+            <Keywords name="Prefix folds">15</Keywords>
             <Keywords name="Numbers, prefix1"></Keywords>
             <Keywords name="Numbers, prefix2"></Keywords>
             <Keywords name="Numbers, extras1"></Keywords>
